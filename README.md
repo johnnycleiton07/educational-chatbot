@@ -6,11 +6,11 @@ Até o momento, abrange os seguintes assuntos e suas ramificações:
 
 | Assunto | Abrange | Main Keyword | Keywords |
 |---------|---------|--------|----------------|
-|INFORMAÇÕES BÁSICAS|Período e horário de funcionamento, localização e como chegar até a instituição| "instituição" |"localização", "situada", "localizada", "horário", "hora", "funcionamento", "turno", "caminho", "transporte"|
-|CONTATOS IMPORTANTES|Secretaria acadêmica, suporte ao aluno, coordenação|"instituição"|"secretaria", "suporte", "coordenação"|
+|INFORMAÇÕES BÁSICAS|Período e horário de funcionamento, localização e como chegar até a instituição| "instituição", "ifal", "campus" |"localização", "situada", "localizada", "localizado" "horário", "hora", "funcionamento", "turno", "caminho", "transporte"|
+|CONTATOS IMPORTANTES|Secretaria acadêmica, suporte ao aluno, coordenação|"contato"|"instituicao", "ifal", "campus", "secretaria", "suporte", "coordenação", "atendimento"|
 |COMUNICAÇÃO COM A INSTITUIÇÃO| Site, redes sociais|"instituição"|"perfil", "contato", "site", "redes sociais", "seguir", "publicação", "publicações"|
 |MATRÍCULA| Como realizar a matrícula, documentos necessários e prazos | "instituição" | "matrícula", "inscrição", "documentos", "documentação", "prazo"|
-|CURSOS OFERECIDOS|Lista de cursos, duração, carga horária, áreas de atuação| "cursos" | "oferecidos", "ofertados", "disponíveis"|
+|CURSOS OFERECIDOS|Lista de cursos, duração, carga horária, áreas de atuação| "cursos", "cursos" | "oferecidos", "ofertados", "disponíveis"|
 |CALENDÁRIO ACADÊMICO| documento via pdf para consulta |Null| "calendário", "feriados", "aula"|
 |BOLSAS DE ESTUDO| informações sobre programas de bolsas, auxílio financeiro e onde encontrar editais |Null| "bolsas", "editais", "auxílio", "dinheiro"|
 |RECURSOS| acesso a laboratório de informática, biblioteca, impressora |Null| "biblioteca", "lab", "laboratório", "impressora"|
