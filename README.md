@@ -64,6 +64,8 @@ Na tabela abaixo podem ser vistas as palavras-chave e sua ligação com os assun
 
 O GetInfoBot funciona no aplicativo de mensagens Telegram por meio de sua API. As imagens abaixo mostram o chatbot em funcionamento.
 
+<p align="center">
+  <img src="assets/telegram-chatbot.png" alt="telegram chatbot">
+</p>
+
 O usuário tem liberdade para digitar mensagens, porém, o chatbot tem suas limitações e pode não reconhecer sentenças que não estejam de acordo com as regras preestabelecidas. Portanto, é importante que o usuário seja descritivo em suas mensagens e utilize palavras mais gerais, evitando o uso de gírias.
-
-
