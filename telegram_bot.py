@@ -250,7 +250,7 @@ class TelegramBot:
                                                                "obrigada",
                                                                "agradecido",
                                                                "agradecida"]):
-            response = "Estou a sua disposição!\n\nDigite OK para finalizar a conversa"
+            response = "Estou a sua disposição!"
 
         else:
             response = "Desculpe, não entendi o que você está procurando. Por favor, reformule sua pergunta de forma mais descritiva."
