@@ -31,7 +31,7 @@ class TelegramBot:
         return preprocessed_text
 
     def send_welcome(self, message):
-        welcome_msg = "Olá! Bem-vindo(a) ao chat de suporte do Instituto Federal de Alagoas (IFAL) Campus Arapiraca. \n\nVocê pode me perguntar sobre tudo relacionado a instituição! \n\n(como contatos, eventos, cursos, recursos, etc)\n\n Como posso ajudá-lo(a) hoje?"
+        welcome_msg = "Digite sua mensagem, estou pronto para lhe ajudar! 🤖"
         self.bot.reply_to(message, welcome_msg)
 
     def handle_message(self, message):
@@ -63,7 +63,8 @@ class TelegramBot:
                                                                                 "mapa"]):
             response = "Para chegar até o Instituto Federal de Alagoas - Campus Arapiraca você pode seguir o endereço através do Google Maps: \n\nhttps://www.google.com/maps/place/Instituto+Federal+de+Alagoas,+Campus+Arapiraca/@-9.7454072,-36.6339326,17z/data=!3m1!4b1!4m6!3m5!1s0x705d5a26696e665:0x8c850bed9f271d22!8m2!3d-9.7454125!4d-36.6313577!16s%2Fg%2F11ckxwpg04?entry=ttu"
         
-        elif has_contato and any(keyword in preprocessed_text for keyword in ["instituicao",
+        elif has_contato and any(keyword in preprocessed_text for keyword in ["instituicao"
+                                                                            "contato",
                                                                             "ifal",
                                                                             "campus",
                                                                             "secretaria",
@@ -87,7 +88,6 @@ class TelegramBot:
 
         elif any (keyword in preprocessed_text for keyword in ["site",
                                                             "redes",
-                                                            "seguir",
                                                             "instagram",
                                                             "facebook",
                                                             "twitter",
@@ -127,7 +127,7 @@ class TelegramBot:
                                                             "xerox",
                                                             "copia",
                                                             "apostila"]):
-            response = "Atualmente, o IFAL Campus Arapiraca conta com dois locais de impressão disponíveis para seus alunos e membros da comunidade acadêmica. Esses locais são: biblioteca e laboratório de informática 001. \n\nOs alunos podem acessar impressoras para imprimir materiais acadêmicos, trabalhos e outros documentos relacionados aos estudos. As políticas de uso, como quantidade de páginas permitidas e custos associados, variam de acordo com as normas atuais da administração das máquinas de impressão."
+            response = "Atualmente, o IFAL Campus Arapiraca conta com dois locais de impressão disponíveis para seus alunos e membros da comunidade acadêmica. Esses locais são: biblioteca e laboratório de informática 001. \n\nOs alunos podem acessar impressoras para imprimir materiais acadêmicos, trabalhos e outros documentos relacionados aos estudos. As políticas de uso, como quantidade de páginas permitidas e custos associados, variam de acordo com as normas atuais da administração das máquinas de impressão.\n\nÉ necessário conferir presencilmente os valores!"
 
         elif has_biblioteca and any (keyword in preprocessed_text for keyword in ["biblioteca",
                                                                                 "funcionamento",
