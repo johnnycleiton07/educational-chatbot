@@ -10,7 +10,7 @@
 
 <section>
   <h3>Informações adicionais:</h3>
-  <p><em>Este projeto foi apresentado como meu trabalho de conclusão de curso da Especialização Latu Sensu em Docência para a Educação Profissional e Tecnológica realizado pelo <a href="https://www2.ifal.edu.br/">IFAL</a></em></p>
+  <p><em>Este projeto foi apresentado como meu trabalho de conclusão de curso da Especialização Latu Sensu em Docência para a Educação Profissional e Tecnológica realizada pelo <a href="https://www2.ifal.edu.br/">IFAL</a></em></p>
   <ul>
     <li><em>O artigo pode ser conferido na pasta <a href="https://github.com/johnnycleiton07/educational-chatbot/tree/main/TCC%20(artigo%20final)">TCC (artigo final)</em></a></li>
   </ul>
