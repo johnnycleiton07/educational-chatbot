@@ -1,0 +1,5 @@
+O procedimento de empréstimo e devolução de livros na biblioteca segue um sistema organizado. 
+
+Alunos e membros da comunidade acadêmica precisam se cadastrar e obter uma carteirinha de identificação para realizar empréstimos. O cadastro é feito na própria biblioteca possuindo sistema de biometria. 
+
+O número de livros permitidos e o prazo de devolução variam de acordo com políticas internas vigentes no momento na instituição, mas geralmente é possível pegar um total de 4 livros desde que não sejam da mesma edição, com um prazo de devolução de até 14 dias.
