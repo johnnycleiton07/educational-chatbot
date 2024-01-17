@@ -24,7 +24,7 @@
   <h4>Chatbot baseado em regras</h4>
   <p><em>Um chatbot por regras realiza tarefas objetivas a partir do que está em sua base de dados, possuindo um vocabulário limitado ao que foi configurado no fluxo de conversa. Abaixo pode ser conferido o fluxo de funcionamento de um chatbot por regras:</em></p>
   <p align="center">
-  <img src="assets/chatbot-diagram.png" alt="fluxo de funcionamento do chatbot">
+  <img src="assets/CHATBOT POR REGRAS.png" alt="fluxo de funcionamento do chatbot">
   </p>
 
 <p><em>As keywords são palavras ou frases específicas que são identificadas pelo chatbot para determinar a intenção do usuário e corresponder a uma resposta pré-definida associada a essa intenção.</em></p>
