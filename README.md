@@ -63,7 +63,7 @@
 
 <section>
   <h2>Demonstração</h2>
-  <p><em>O funcionamento do chatbot através de uma demonstração com uma persona chamada Ana Júlia pode ser conferido no seguinte <a href="https://drive.google.com/file/d/1Q6Vczz-t0exoQQADfOQrE2DXwK1rLdCQ/view?usp=sharing">video</a>, onde a usuária faz perguntas relativas a cursos disponíveis e como funciona o processo seletivo do Instituto Federal de Alagoas.</em></p>
+  <p><em>O funcionamento do chatbot através de uma demonstração com uma persona chamada Ana Júlia pode ser conferido no seguinte <a href="https://youtu.be/9zaxzOUCZM0">video</a>, onde a usuária faz perguntas relativas a cursos disponíveis e como funciona o processo seletivo do Instituto Federal de Alagoas.</em></p>
 </section>
 
 <em>OBS: o usuário tem liberdade para digitar mensagens, porém, o chatbot tem suas limitações e pode não reconhecer sentenças que não estejam de acordo com as regras preestabelecidas. Portanto, é importante que o usuário seja descritivo em suas mensagens e utilize palavras mais gerais, evitando o uso de gírias.</em>
